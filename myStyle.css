@@ -17,3 +17,10 @@ head {
 body {
 	background-color: black;
 }
+
+/*Dette er en CSS comment.*/
+#kulTekst 
+{
+	color: blue;
+	font-size: 2em;
+}
